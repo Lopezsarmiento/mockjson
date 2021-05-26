@@ -1,5 +1,5 @@
 {
-  "policies": [
+  'policies': [
     {
     'id': 'MyPolicyName-1',
     'last_modified': '1604395966369',
