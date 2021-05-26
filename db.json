@@ -1,46 +1,46 @@
 {
   "policies": [
     {
-      id: 'MyPolicyName-1',
-      last_modified: '1604395966369',
-      size: 123,
-      enabled: true,
-    },
-    {
-      id: 'MyPolicyName-2',
-      last_modified: '1604395966369',
-      size: 123,
-      enabled: true,
-    },
-    {
-      id: 'MyPolicyName-3',
-      last_modified: '1604395966369',
-      size: 123,
-      enabled: true,
-    },
-    {
-      id: 'MyPolicyName-4',
-      last_modified: '1604395966369',
-      size: 123,
-      enabled: true,
-    },
-    {
-      id: 'MyPolicyName-5',
-      last_modified: '1604395966369',
-      size: 123,
-      enabled: true,
-    },
-    {
-      id: 'MyPolicyName-6',
-      last_modified: '1604395966369',
-      size: 123,
-      enabled: false,
-    },
-    {
-      id: 'MyPolicyName-7',
-      last_modified: '1604395966369',
-      size: 123,
-      enabled: false,
-    },
+    'id': 'MyPolicyName-1',
+    'last_modified': '1604395966369',
+    'size': 123,
+    'enabled': true,
+  },
+  {
+    'id': 'MyPolicyName-2',
+    'last_modified': '1604395966369',
+    'size': 123,
+    'enabled': true,
+  },
+  {
+    'id': 'MyPolicyName-3',
+    'last_modified': '1604395966369',
+    'size': 123,
+    'enabled': true,
+  },
+  {
+    'id': 'MyPolicyName-4',
+    'last_modified': '1604395966369',
+    'size': 123,
+    'enabled': true,
+  },
+  {
+    'id': 'MyPolicyName-5',
+    'last_modified': '1604395966369',
+    'size': 123,
+    'enabled': true,
+  },
+  {
+    'id': 'MyPolicyName-6',
+    'last_modified': '1604395966369',
+    'size': 123,
+    'enabled': false,
+  },
+  {
+    'id': 'MyPolicyName-7',
+    'last_modified': '1604395966369',
+    'size': 123,
+    'enabled': false,
+  },
   ]
 }
