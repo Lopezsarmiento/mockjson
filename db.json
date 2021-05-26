@@ -1,22 +1,22 @@
 {
-  "Policies":[
-    {
-      "id": "MyPolicyName-1",
-      "last_modified": "1604395966369",
-      "size": 123,
-      "enabled": true
-    },
-    {
-      "id": "MyPolicyName-2",
-      "last_modified": "1604395966469",
-      "size": 456,
-      "enabled": true
-    },
-    {
-      "id": "MyPolicyName-3",
-      "last_modified": "1604395966469",
-      "size": 456,
-      "enabled": false
-    }
-  ]
+   "Policies":[
+      {
+         "id":"MyPolicyName-1",
+         "last_modified":"1604395966369",
+         "size":123,
+         "enabled":true
+      },
+      {
+         "id":"MyPolicyName-2",
+         "last_modified":"1604395966469",
+         "size":456,
+         "enabled":true
+      },
+      {
+         "id":"MyPolicyName-3",
+         "last_modified":"1604395966469",
+         "size":456,
+         "enabled":false
+      }
+   ]
 }
